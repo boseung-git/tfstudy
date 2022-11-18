@@ -1,3 +1,4 @@
+# EC2 3개를 생성(count 값에 따라)하고 output으로 각 EC2의 이름을 출력한다.
 
 locals {
   nickname = "boseung-study"
